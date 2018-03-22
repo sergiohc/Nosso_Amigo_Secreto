@@ -1,0 +1,45 @@
+[2018-03-22 15:51:01.057] [sharedprocess] [info] main {"machineId":"0a45f9e8a6b198e22b3ced9d4dad471fd0a25963252d8b5ecae4abe28169a944"}
+[2018-03-22 15:51:06.119] [sharedprocess] [info] Scanned user extensions: 9
+[2018-03-22 15:51:06.466] [sharedprocess] [info] Deleted from disk waderyan.code-lens-roundup-1.0.0
+[2018-03-22 15:51:11.357] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-22 15:51:33.344] [sharedprocess] [info] Scanned user extensions: 9
+[2018-03-22 15:51:33.355] [sharedprocess] [info] Scanned user extensions: 9
+[2018-03-22 15:51:33.392] [sharedprocess] [info] Scanned user extensions: 9
+[2018-03-22 15:51:36.997] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-22 15:51:37.008] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-22 15:51:38.898] [sharedprocess] [info] Scanned user extensions: 9
+[2018-03-22 15:51:41.486] [sharedprocess] [info] Installing extension: bracket-pair-colorizer
+[2018-03-22 15:51:41.749] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-03-22 15:51:43.440] [sharedprocess] [info] Downloaded extension: bracket-pair-colorizer
+[2018-03-22 15:51:44.415] [sharedprocess] [info] Deleting the extracted extension CoenraadS.bracket-pair-colorizer-1.0.26
+[2018-03-22 15:51:44.441] [sharedprocess] [info] Scanned user extensions: 9
+[2018-03-22 15:51:44.679] [sharedprocess] [error] Failed to install extension: CoenraadS.bracket-pair-colorizer unknown
+[2018-03-22 15:51:48.402] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-22 15:51:48.404] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-22 15:51:48.870] [sharedprocess] [info] Scanned user extensions: 9
+[2018-03-22 15:51:48.995] [sharedprocess] [info] Scanned user extensions: 9
+[2018-03-22 15:51:49.120] [sharedprocess] [info] Scanned user extensions: 9
+[2018-03-22 15:51:50.351] [sharedprocess] [info] Installing extension: bracket-pair-colorizer
+[2018-03-22 15:51:50.426] [sharedprocess] [info] Scanned user extensions: 9
+[2018-03-22 15:51:51.574] [sharedprocess] [info] Downloaded extension: bracket-pair-colorizer
+[2018-03-22 15:51:51.728] [sharedprocess] [info] Removed the extension from uninstalled list: CoenraadS.bracket-pair-colorizer-1.0.26
+[2018-03-22 15:51:51.743] [sharedprocess] [info] Scanned user extensions: 9
+[2018-03-22 15:51:51.925] [sharedprocess] [info] Scanned user extensions: 9
+[2018-03-22 15:51:51.946] [sharedprocess] [info] Scanned user extensions: 9
+[2018-03-22 15:51:51.953] [sharedprocess] [info] Scanned user extensions: 9
+[2018-03-22 15:51:52.131] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-22 15:51:52.139] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-22 15:51:53.593] [sharedprocess] [info] Extracted extension to /home/elementaryos/.vscode/extensions/CoenraadS.bracket-pair-colorizer-1.0.26: CoenraadS.bracket-pair-colorizer-1.0.26
+[2018-03-22 15:51:53.739] [sharedprocess] [info] Updated metadata of the extension: CoenraadS.bracket-pair-colorizer-1.0.26
+[2018-03-22 15:51:53.739] [sharedprocess] [info] Extensions installed successfully: CoenraadS.bracket-pair-colorizer
+[2018-03-22 15:51:53.886] [sharedprocess] [info] Scanned user extensions: 9
+[2018-03-22 15:51:53.947] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-22 15:52:32.233] [sharedprocess] [info] Scanned user extensions: 9
+[2018-03-22 15:52:32.235] [sharedprocess] [info] Scanned user extensions: 9
+[2018-03-22 15:52:32.239] [sharedprocess] [info] Scanned user extensions: 9
+[2018-03-22 15:52:34.317] [sharedprocess] [info] Scanned user extensions: 9
+[2018-03-22 15:52:34.328] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-22 15:52:34.335] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-22 15:53:08.301] [sharedprocess] [info] Scanned user extensions: 9
+[2018-03-22 15:53:08.308] [sharedprocess] [info] Scanned user extensions: 9
+[2018-03-22 15:53:08.324] [sharedprocess] [info] Scanned user extensions: 9

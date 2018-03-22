@@ -1,0 +1,62 @@
+[2018-03-22 15:51:43.689] [exthost1] [info] extension host started
+[2018-03-22 15:51:43.764] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:51:43.764] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-03-22 15:51:47.275] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:51:47.275] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-03-22 15:51:49.924] [exthost1] [info] extension host started
+[2018-03-22 15:51:49.972] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:51:49.972] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-03-22 15:51:50.083] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:51:50.083] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-03-22 15:51:54.891] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:51:54.891] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-03-22 15:51:55.277] [exthost1] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:51:55.277] [exthost1] [info] ExtensionService#loadCommonJSModule /home/elementaryos/.vscode/extensions/CoenraadS.bracket-pair-colorizer-1.0.22/out/src/extension
+[2018-03-22 15:51:55.608] [exthost1] [info] ExtensionService#_doActivateExtension HookyQR.minify {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:51:55.608] [exthost1] [info] ExtensionService#loadCommonJSModule /home/elementaryos/.vscode/extensions/HookyQR.minify-0.3.0/extension
+[2018-03-22 15:51:54.891] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:51:54.891] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-03-22 15:51:55.273] [exthost1] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:51:55.273] [exthost1] [info] ExtensionService#loadCommonJSModule /home/elementaryos/.vscode/extensions/CoenraadS.bracket-pair-colorizer-1.0.22/out/src/extension
+[2018-03-22 15:51:55.608] [exthost1] [info] ExtensionService#_doActivateExtension HookyQR.minify {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:51:55.608] [exthost1] [info] ExtensionService#loadCommonJSModule /home/elementaryos/.vscode/extensions/HookyQR.minify-0.3.0/extension
+[2018-03-22 15:51:59.088] [exthost1] [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:51:59.088] [exthost1] [info] ExtensionService#loadCommonJSModule /home/elementaryos/.vscode/extensions/WakaTime.vscode-wakatime-1.1.26/out/extension
+[2018-03-22 15:51:59.088] [exthost1] [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:51:59.089] [exthost1] [info] ExtensionService#loadCommonJSModule /home/elementaryos/.vscode/extensions/WakaTime.vscode-wakatime-1.1.26/out/extension
+[2018-03-22 15:52:05.733] [exthost1] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:52:05.733] [exthost1] [info] ExtensionService#loadCommonJSModule /home/elementaryos/.vscode/extensions/eamodio.gitlens-8.1.1/out/extension
+[2018-03-22 15:52:05.730] [exthost1] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:52:05.730] [exthost1] [info] ExtensionService#loadCommonJSModule /home/elementaryos/.vscode/extensions/eamodio.gitlens-8.1.1/out/extension
+[2018-03-22 15:52:11.364] [exthost1] [info] ExtensionService#_doActivateExtension minhthai.vscode-todo-parser {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:52:11.364] [exthost1] [info] ExtensionService#loadCommonJSModule /home/elementaryos/.vscode/extensions/minhthai.vscode-todo-parser-1.9.1/out/src/extension
+[2018-03-22 15:52:12.294] [exthost1] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:52:12.294] [exthost1] [info] ExtensionService#loadCommonJSModule /home/elementaryos/.vscode/extensions/oderwat.indent-rainbow-0.7.2/out/extension
+[2018-03-22 15:52:12.402] [exthost1] [info] eager extensions activated
+[2018-03-22 15:52:11.364] [exthost1] [info] ExtensionService#_doActivateExtension minhthai.vscode-todo-parser {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:52:11.364] [exthost1] [info] ExtensionService#loadCommonJSModule /home/elementaryos/.vscode/extensions/minhthai.vscode-todo-parser-1.9.1/out/src/extension
+[2018-03-22 15:52:12.293] [exthost1] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:52:12.293] [exthost1] [info] ExtensionService#loadCommonJSModule /home/elementaryos/.vscode/extensions/oderwat.indent-rainbow-0.7.2/out/extension
+[2018-03-22 15:52:12.401] [exthost1] [info] eager extensions activated
+[2018-03-22 15:52:15.954] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-03-22 15:52:15.954] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html/client/out/htmlMain
+[2018-03-22 15:52:32.484] [exthost1] [info] extension host started
+[2018-03-22 15:52:32.752] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:52:32.752] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-03-22 15:52:32.996] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:52:32.996] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-03-22 15:52:35.270] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:52:35.270] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-03-22 15:52:35.465] [exthost1] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:52:35.465] [exthost1] [info] ExtensionService#loadCommonJSModule /home/elementaryos/.vscode/extensions/CoenraadS.bracket-pair-colorizer-1.0.26/out/src/extension
+[2018-03-22 15:52:35.745] [exthost1] [info] ExtensionService#_doActivateExtension HookyQR.minify {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:52:35.745] [exthost1] [info] ExtensionService#loadCommonJSModule /home/elementaryos/.vscode/extensions/HookyQR.minify-0.3.0/extension
+[2018-03-22 15:52:37.114] [exthost1] [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:52:37.114] [exthost1] [info] ExtensionService#loadCommonJSModule /home/elementaryos/.vscode/extensions/WakaTime.vscode-wakatime-1.1.26/out/extension
+[2018-03-22 15:52:37.972] [exthost1] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:52:37.972] [exthost1] [info] ExtensionService#loadCommonJSModule /home/elementaryos/.vscode/extensions/eamodio.gitlens-8.1.1/out/extension
+[2018-03-22 15:52:38.856] [exthost1] [info] ExtensionService#_doActivateExtension minhthai.vscode-todo-parser {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:52:38.856] [exthost1] [info] ExtensionService#loadCommonJSModule /home/elementaryos/.vscode/extensions/minhthai.vscode-todo-parser-1.9.1/out/src/extension
+[2018-03-22 15:52:39.173] [exthost1] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"activationEvent":"*"}
+[2018-03-22 15:52:39.173] [exthost1] [info] ExtensionService#loadCommonJSModule /home/elementaryos/.vscode/extensions/oderwat.indent-rainbow-0.7.2/out/extension
+[2018-03-22 15:52:39.194] [exthost1] [info] eager extensions activated
