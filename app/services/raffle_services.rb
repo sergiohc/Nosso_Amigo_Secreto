@@ -2,7 +2,7 @@ require 'rails_helper'
 
 describe RaffleService do
 
-before :each do
+  before :each do
     @campaign = create(:campaign, status: :pending)
   end
 
