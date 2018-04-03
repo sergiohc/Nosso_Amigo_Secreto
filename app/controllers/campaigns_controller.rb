@@ -1,32 +1,13 @@
 class CampaignsController < ApplicationController
-<<<<<<< HEAD
-=======
   before_action :authenticate_user!
 
   before_action :set_campaign, only: [:show, :destroy, :update, :raffle]
   before_action :is_owner?, only: [:show, :destroy, :update, :raffle]
 
->>>>>>> master
   def show
   end
 
   def index
-<<<<<<< HEAD
-  end
-
-  def create
-  end
-
-  def update
-  end
-
-  def destroy
-  end
-
-  def raffle
-  end
-end
-=======
     @campaigns = current_user.campaigns
   end
 
@@ -92,4 +73,4 @@ end
     end
   end
 end
->>>>>>> master
+
