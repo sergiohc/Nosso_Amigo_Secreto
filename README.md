@@ -10,6 +10,4 @@ Ao finalizar a implantação do aplicativo será exibido a mensagem "Your app wa
 
 Clique no botão "View"
 
-Será carregado o aplicativo, com o acesso ao Magento
-
 Em seguida você pode fazer um fork desse repositório e fazer as alterações necessárias, certifique de apontar o seu repositório na Heroku e habilitar a implantação automatica.
