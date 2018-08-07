@@ -1,24 +1,15 @@
-# README
+## Implantando na Heroku
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Clique abaixo para implantar o aplicativo na sua conta na [Heroku](https://www.heroku.com/)
 
-Things you may want to cover:
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sergiohc/Nosso_Amigo_Secreto)
 
-* Ruby version
+Em seguida clique no botão "Deploy"
 
-* System dependencies
+Ao finalizar a implantação do aplicativo será exibido a mensagem "Your app was successfully deployed."
 
-* Configuration
+Clique no botão "View"
 
-* Database creation
+Será carregado o aplicativo, com o acesso ao Magento
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Em seguida você pode fazer um fork desse repositório e fazer as alterações necessárias, certifique de apontar o seu repositório na Heroku e habilitar a implantação automatica.
