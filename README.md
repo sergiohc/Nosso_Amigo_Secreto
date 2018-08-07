@@ -6,7 +6,7 @@ Clique abaixo para implantar o aplicativo na sua conta na [Heroku](https://www.h
 
 Em seguida clique no botão "Deploy"
 
-Ao finalizar a implantação do aplicativo será exibido a mensagem "Your app was successfully deployed."
+Ao finalizar a implantação.
 
 Clique no botão "View"
 
