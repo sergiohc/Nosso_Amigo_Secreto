@@ -1,50 +1,28 @@
 {
-    "name":"mozgbrasil/heroku-magento",
-    "description":"Ruby on Rails app",
-    "keywords":[
-        "app.json",
-        "heroku",
-        "brasil"
-    ],
-    "website":"http://mozg.com.br/",
-    "repository":"https://github.com/sergiohc/Nosso_Amigo_Secreto",
-    "logo":"http://mozg.com.br/assets/images/logos/logo.svg",
-    "success_url":"/",
-    "scripts":{
-        "postdeploy":"echo 'Yo_postdeploy' ; bash app.sh postdeploy >> app.log ; ",
-        "pr-predestroy":"echo 'Yo_predestroy' ; bash app.sh teardown >> app.log ; "
+  "name": "Meu amigo secreto",
+  "description": "A demonstration app using.",
+  "repository": "https://github.com/sergiohc/Nosso_Amigo_Secreto",
+  "keywords": [
+    "Ruby",
+    "Brasil"
+  ],
+  "buildpacks": [
+    {"url": "https://github.com/solidusio/heroku-buildpack-solidus-demo.git"}
+  ],
+  "addons": [
+    "heroku-postgresql:hobby-dev"
+  ],
+  "scripts": {
+    "postdeploy": "rake db:migrate && rake db:seed"
+  },
+  "env": {
+    "ADMIN_EMAIL": {
+      "description": "We will create an admin user with this email.",
+      "value": "admin@example.com"
     },
-    "env":{
-        "EMAIL":{
-            "required":true
-        },
-        "SECRET_TOKEN":{
-            "description":"A secret key for verifying the integrity of signed cookies.",
-            "generator":"secret"
-        }
-    },
-    "image":"heroku/php",
-    "addons":[
-        "jawsdb:leopard",
-        "cleardb",
-        "heroku-postgresql",
-        "semaphore",
-        "codeship",
-        "sendgrid"
-    ],
-    "buildpacks":[
-        {
-            "url":"heroku/php"
-        },
-        {
-            "url":"https://github.com/gaumire/heroku-buildpack-mysql"
-        }
-    ],
-    "environments":{
-        "test":{
-            "scripts":{
-                "test":"echo 'Yo_environments' ; bash app.sh environments >> app.log ; "
-            }
-        }
+    "ADMIN_PASSWORD": {
+      "description": "We will create an admin user with this password.",
+      "value": "test123"
     }
+  }
 }
