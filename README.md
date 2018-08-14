@@ -26,6 +26,11 @@ Em seguida você pode fazer um fork desse repositório e fazer as alterações n
   </a>
 </p>
 
+<p align="left">
+  <a href="https://www.ruby-lang.org">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="100">
+  </a>
+</p>
 
 <p align="left">
   <a href="https://rubyonrails.org/">
