@@ -29,7 +29,7 @@ Em seguida você pode fazer um fork desse repositório e fazer as alterações n
 
 <p align="left">
   <a href="https://rubyonrails.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="100">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" width="100">
   </a>
 </p>
 
