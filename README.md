@@ -15,31 +15,31 @@ Em seguida você pode fazer um fork desse repositório e fazer as alterações n
 ## Stack
 
 <p align="left">
-  <a href="http://materializecss.com/">
+  <a href="http://materializecss.com/" title="Materialize">
     <img src="http://materializecss.com/res/materialize.svg" width="100">
   </a>
 </p>
 
 <p align="left">
-  <a href="https://www.docker.com/">
+  <a href="https://www.docker.com/" title="Docker">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="100">
   </a>
 </p>
 
 <p align="left">
-  <a href="https://www.ruby-lang.org">
+  <a href="https://www.ruby-lang.org" title="Ruby - language">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="100">
   </a>
 </p>
 
 <p align="left">
-  <a href="https://rubyonrails.org/">
+  <a href="https://rubyonrails.org/" title="Rails">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" width="100">
   </a>
 </p>
 
 <p align="left">
-  <a href="https://www.elephantsql.com/">
+  <a href="https://www.elephantsql.com/" title="PostgreSQL">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="100">
   </a>
 </p>
