@@ -12,7 +12,7 @@ Clique no botão "View"
 
 Em seguida você pode fazer um fork desse repositório e fazer as alterações necessárias, certifique de apontar o seu repositório na Heroku e habilitar a implantação automatica.
 
-##Stack
+## Stack
 
 <p align="left">
   <a href="http://materializecss.com/">
