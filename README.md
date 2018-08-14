@@ -20,9 +20,9 @@ Em seguida você pode fazer um fork desse repositório e fazer as alterações n
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.docker.com/" title="Docker">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="100">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="200">
   </a>
 </p>
 
